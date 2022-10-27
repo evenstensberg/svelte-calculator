@@ -6,5 +6,5 @@ Boilerplate for svelte in webpack (config is not in ts, but could be...)
 
 
 ```console
-npm install && npm run build && npm run serve
+npm install && npm run start
 ```
