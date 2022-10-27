@@ -1,6 +1,6 @@
-# Calculator in Svelte
+# Svelte webpack boilerplate
 
-Just to test out Svelte.
+Boilerplate for svelte in webpack (config is not in ts, but could be...)
 
 ## Running
 
